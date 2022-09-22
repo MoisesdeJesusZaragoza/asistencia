@@ -7,6 +7,11 @@
     <title>Actualizaciones</title>
 </head>
 <body>
-    <h1>Actualizaciones</h1>    
+    <h1>Actualizaciones</h1>
+    
+    <h2>Actualizaciones mas reciente</h2>
+    <p>
+        {{$ultima}}
+    </p>
 </body>
 </html>
